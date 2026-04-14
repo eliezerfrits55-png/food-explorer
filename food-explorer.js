@@ -1,3 +1,5 @@
+//Author.wara ntem fridz eliezer
+
 const mockFoods = [
   {
     id: 1,
